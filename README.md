@@ -26,6 +26,7 @@ Samify is a great utility and spam mangement tool to not only prevent spam but d
 **Beta 1.0**
 
 [+] Scrapped the code from my old WhatsApp-Spammer project (know privated) 
+ [-] Fixed the code (Added support to the later versions of python, tkinter and the libaries it uses + made it a tiny bit more modern)
 
 # Support 
 
